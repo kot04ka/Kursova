@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kosta\source\repos\Project3\Project3\main.cpp(416,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kosta\source\repos\Project3\Project3\main.cpp(416,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\kosta\source\repos\Project3\x64\Debug\Project3.exe

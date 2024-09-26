@@ -1,0 +1,8 @@
+1 triangle Black Metallic 4 44
+2 triangle Black Metallic 4 44
+3 triangle orange Metallic 44 22
+4 rectangle Black Metallic 4 44
+5 rectangle Blue Metallic 44 44
+6 circle White Matte 2 22
+7 rectangle Blue Rough 44 44
+8 circle Green Glossy 44 22
